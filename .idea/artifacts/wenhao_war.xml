@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wenhao:war">
+    <output-path>$PROJECT_DIR$/../wenhao/target</output-path>
+    <root id="archive" name="wenhao.war">
+      <element id="artifact" artifact-name="wenhao:war exploded" />
+    </root>
+  </artifact>
+</component>
